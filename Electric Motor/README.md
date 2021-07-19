@@ -1,7 +1,7 @@
 
 Electric Motor Prototypes
 ===
-Here are electric motor prototypes I think may be viable for commercial use
+Here are electric motor prototypes I think may become viable for commercial use
 
 
 Finned Disk Stator & Fanned Neodymium Rotor Electric Motor
