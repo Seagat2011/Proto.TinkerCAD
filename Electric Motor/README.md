@@ -10,7 +10,7 @@ Here are electric motor prototypes which may become viable for commercial use<br
 <figcaption>Caption: Fanned (Neodymium) Rotor Electric Motor prototype</figcaption>
 </figure><br>
 <br>
-The Finned-Stator | Fanned-Rotor design increases surface-area and, thus, the flux field area of the electric motor allowing the fanned rotor electric motor to achieve the acceleration and the torque of a much larger motor<br>
+The Finned-Stator | Fanned-Rotor design increases surface-area and, thus, the flux field density of the electric motor allowing the fanned rotor electric motor to achieve the acceleration and the torque of much larger motors<br>
 <br>
 <br>
 <h2>Unified Stator | Neodymium Rotor Multistage Electric Motor</h2>
