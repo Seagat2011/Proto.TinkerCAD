@@ -1,7 +1,7 @@
 
 <h1>Electric Motor Prototypes</h1>
 <hr>
-Here are electric motor prototypes I think may become viable for commercial use<br>
+Here are electric motor prototypes which may become viable for commercial use<br>
 <br>
 <br>
 <h2>Finned Disk Stator & Fanned Neodymium Rotor Electric Motor</h2>
