@@ -1,11 +1,23 @@
 
 Electric Motor Prototypes
-=========================
+===
+Here are two (2) electric motor prototypes I think may be viable for commercial use
+
 
 Stator Disk Neodymium Rotor Electric Motor
 ===
-<img src="IMG/001.png" width=300px>
+<figure>
+<img src="IMG/001.png" width=300px title>
+<figcaption>Stator Disk Neodymium Rotor Electric Motor prototype</figcaption>
+</figure>
 
 Unified Stator Neodymium Rotor Electric Motor w/ Builtin Transmission (Multistage)
 ===
+<figure>
 <img src="IMG/002.png" width=300px>
+<figcaption>Neodymium Rotor Electric Motor prototype w/ builtin multistage transmission</figcaption>
+</figure>
+
+The Neodymium Rotor Electric Motor uses a unified rotor and stator for multistage velocity achievement. 
+The inner or outer rotors could be disabled to allow for energy re-capture, 
+thereby decreasing top speed while increasing motor efficiency many orders of magnitude
