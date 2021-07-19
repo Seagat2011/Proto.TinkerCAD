@@ -4,7 +4,7 @@
 Here are electric motor prototypes which may become viable for commercial use<br>
 <br>
 <br>
-<h2>Finned Disk Stator & Fanned Neodymium Rotor Electric Motor</h2>
+<h2>Finned Disk Stator | Fanned Neodymium Rotor Electric Motor</h2>
 <figure>
 <img src="IMG/001.png" width=800px title>
 <figcaption>Caption: Fanned (Neodymium) Rotor Electric Motor prototype</figcaption>
