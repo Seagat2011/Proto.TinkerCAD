@@ -1,17 +1,17 @@
 
 Electric Motor Prototypes
 ===
-Here are two (2) electric motor prototypes I think may be viable for commercial use
+Here are electric motor prototypes I think may be viable for commercial use
 
 
-Stator Disk Neodymium Rotor Electric Motor
+Finned Disk Stator & Fanned Neodymium Rotor Electric Motor
 ===
 <figure>
 <img src="IMG/001.png" width=300px title>
 <figcaption>Stator Disk Neodymium Rotor Electric Motor prototype</figcaption>
 </figure>
 
-Unified Stator Neodymium Rotor Electric Motor w/ Builtin Transmission (Multistage)
+Unified Stator & Neodymium Rotor Electric Motor w/ Builtin Transmission (Multistage)
 ===
 <figure>
 <img src="IMG/002.png" width=300px>
