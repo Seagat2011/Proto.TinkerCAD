@@ -1,1 +1,1 @@
-TinkerCAD prototypes developed using the AutoDESK freeware suite.
+TinkerCAD prototypes developed with the AutoDESK freeware suite.
