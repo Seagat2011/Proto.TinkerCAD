@@ -6,7 +6,7 @@ Here are electric motor prototypes which may become viable for commercial use<br
 <br>
 <h2>Finned Disk Stator & Fanned Neodymium Rotor Electric Motor</h2>
 <figure>
-<img src="IMG/001.png" width=300px title>
+<img src="IMG/001.png" width=600px title>
 <figcaption>Caption: Stator Disk Neodymium Rotor Electric Motor prototype</figcaption>
 </figure><br>
 <br>
@@ -15,7 +15,7 @@ The Finned-Stator / Fanned-Rotor design increases surface-area and, therefore, t
 <br>
 <h2>Unified Stator & Neodymium Rotor Electric Motor w/ Builtin Transmission (Multistage)</h2>
 <figure>
-<img src="IMG/002.png" width=300px>
+<img src="IMG/002.png" width=600px>
 <figcaption>Caption: Neodymium Rotor Electric Motor prototype w/ builtin multistage transmission</figcaption>
 </figure><br>
 <br>
