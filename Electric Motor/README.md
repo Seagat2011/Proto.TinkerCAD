@@ -19,4 +19,4 @@ The Finned-Stator | Fanned-Rotor design increases surface-area and, thus, the fl
 <figcaption>Caption: Neodymium Electric Motor prototype w/ builtin multistage transmission</figcaption>
 </figure><br>
 <br>
-The Neodymium Rotor Electric Motor uses a unified rotor and stator for multistage velocity achievement. The inner or outer rotors could be disabled to allow for energy re-capture, thereby decreasing top speed while increasing motor efficiency many orders of magnitude<br>
+The Neodymium Rotor Electric Motor uses a unified rotor and stator for multistage velocity achievement. The inner or outer stator | rotors could be disabled to allow for energy re-capture, thereby decreasing top speed while increasing overall motor efficiency many orders of magnitude<br>
